@@ -1,9 +1,9 @@
 {
   "required": true,
-  "package": "com.github.draylar.modid.mixin",
+  "package": "com.github.draylar.eiah.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-
+    "ESMixin"
   ],
   "injectors": {
     "defaultRequire": 1
