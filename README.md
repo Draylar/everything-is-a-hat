@@ -1,18 +1,8 @@
-# Fabric Example Mod
+# Everything is a Hat
 
-Draylar's fork of the fabric-example-mod. Changes package structure to my usual one.
+Meme mod that I attempted to make in under an hour.
+Everything-- yes, everything-- is a hat.
+https://github.com/Draylar/everything-is-a-hat
 
-## Setup
-
-1. Edit build.gradle and mod.json to suit your needs.
-    * The "mixins" object can be removed from mod.json if you do not need to use mixins.
-    * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
-2. Run the following command:
-
-```
-./gradlew idea
-```
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# License
+MIT. It's basically 5 lines of code... do what you want.
