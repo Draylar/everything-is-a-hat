@@ -2,7 +2,7 @@
 {
   "schemaVersion": 1,
   "id": "everythingisahat",
-  "version": "1.0.2",
+  "version": "1.0.4",
 
   "name": "Everything is a Hat",
   "description": "Wear any block or item in the game as a hat.",
@@ -18,13 +18,8 @@
   "icon": "assets/eiah/icon.png",
 
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "com.github.draylar.eiah.EverythingIsAHat"
-    ]
-  },
   "mixins": [
-    "modid.mixins.json"
+    "everythingisahat.mixins.json"
   ],
 
   "requires": {
